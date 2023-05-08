@@ -28,8 +28,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Step 1 Create a Resource Group
 - Step 2 Create a Windows 10 Virtual Machine (VM)
-While creating the VM, select the previously created Resource Group
-While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
+         While creating the VM, select the previously created Resource Group
+         While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
 
 - Step 3
 - Step 4
