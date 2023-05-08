@@ -26,8 +26,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1 Create a Resource Group named 
-- Step 2 Create a Windows 10 Virtual Machine (VM)
+- Step 1 Create a Resource Group 
+- Step 2 Create a Windows 10 Virtual Machine (VM) named "vpn-practice"
          While creating the VM, select the previously created Resource Group
          While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
 
@@ -37,7 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://imgur.com/vRx5S2T" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/SQdlTnK" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
          <p>
