@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1 Go to "Whatismyipaddress.com and take note of it,<h2>High-24.162.159.186</h2> 
+- Step 1 Go to "Whatismyipaddress.com and take note of it,<h2>-24.162.159.186</h2> 
 - Step 2 Create a Windows 10 Virtual Machine (VM) named "vpn-practice"
          While creating the VM, select the previously created Resource Group
          While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet
