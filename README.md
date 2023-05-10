@@ -45,13 +45,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 
 (Sign up for ProtonVPN and test the VPN connection)
-On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en I used my own Nord VPN Subscription for this lab.
+On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en I used my own Nord VPN Subscription for this lab, you can use the VPN of your choice.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Back within your VM, download the Proton VPN client
+Back within your VM, download the PROTON/NORD VPN client of your choice
 Login to the VPN and choose a VPN server in yet another country (such as Japan)
 Browse to https://whatismyipaddress.com/  and take note of this in a text file
 Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
@@ -65,7 +65,7 @@ Try browsing to Google, Disney, and/or Amazon and see if there is anything diffe
 <p>
 (Clean up Azure resources)
 Delete the resource group you created in Step 2
-Ensure the resources/Resource Group has been deleted.
+Ensure the resources/Resource Group has been deleted so that you don't rack up charges.
 
 </p>
 <br />
