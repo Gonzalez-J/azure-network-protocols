@@ -35,15 +35,19 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4 Observe Your Virtual Network within Network Watcher
 
 <h2>Actions and Observations</h2>
-<p>
-<img src="https://https://i.imgur.com/g4eBC3y" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <p>
+<img src="https://i.imgur.com/g4eBC3y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-                  <p>
+ <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+  <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>        
 (Sign up for ProtonVPN and test the VPN connection)
 On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en I used my own Nord VPN Subscription for this lab, you can use the VPN of your choice.
 
