@@ -52,7 +52,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en I used my own Nord VPN Subscription for this lab, you can use the VPN of your choice.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8nx67a4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Back within your VM, download the VPN client of your choice
