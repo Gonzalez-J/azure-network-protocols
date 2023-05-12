@@ -64,7 +64,7 @@ Try browsing to Google, Disney, and/or Amazon and see if there is anything diffe
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UO2M7fL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 (Clean up Azure resources)
